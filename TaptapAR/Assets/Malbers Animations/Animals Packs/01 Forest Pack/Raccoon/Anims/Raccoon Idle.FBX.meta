@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 59698e267f3ee18468742a2bff2f750c
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Box001
+  - first:
+      1: 100002
+    second: CG
+  - first:
+      1: 100004
+    second: Cheek L
+  - first:
+      1: 100006
+    second: Cheek LNub
+  - first:
+      1: 100008
+    second: Cheek R
+  - first:
+      1: 100010
+    second: Cheek RNub
+  - first:
+      1: 100012
+    second: Eye
+  - first:
+      1: 100014
+    second: Eye L
+  - first:
+      1: 100016
+    second: Eye LNub
+  - first:
+      1: 100018
+    second: Eye R
+  - first:
+      1: 100020
+    second: Eye RNub
+  - first:
+      1: 100022
+    second: Footsteps
+  - first:
+      1: 100024
+    second: Hair Tail
+  - first:
+      1: 100026
+    second: Head
+  - first:
+      1: 100028
+    second: HeadNub
+  - first:
+      1: 100030
+    second: Jaw
+  - first:
+      1: 100032
+    second: JawNub
+  - first:
+      1: 100034
+    second: L Calf
+  - first:
+      1: 100036
+    second: L Clavicle
+  - first:
+      1: 100038
+    second: L Ear
+  - first:
+      1: 100040
+    second: L Finger0
+  - first:
+      1: 100042
+    second: L Finger01
+  - first:
+      1: 100044
+    second: L Finger0Nub
+  - first:
+      1: 100046
+    second: L Finger1
+  - first:
+      1: 100048
+    second: L Finger11
+  - first:
+      1: 100050
+    second: L Finger1Nub
+  - first:
+      1: 100052
+    second: L Finger2
+  - first:
+      1: 100054
+    second: L Finger21
+  - first:
+      1: 100056
+    second: L Finger2Nub
+  - first:
+      1: 100058
+    second: L Finger3
+  - first:
+      1: 100060
+    second: L Finger31
+  - first:
+      1: 100062
+    second: L Finger3Nub
+  - first:
+      1: 100064
+    second: L Finger4
+  - first:
+      1: 100066
+    second: L Finger41
+  - first:
+      1: 100068
+    second: L Finger4Nub
+  - first:
+      1: 100070
+    second: L Foot
+  - first:
+      1: 100072
+    second: L Forearm
+  - first:
+      1: 100074
+    second: L Hand
+  - first:
+      1: 100076
+    second: L HorseLink
+  - first:
+      1: 100078
+    second: L Thigh
+  - first:
+      1: 100080
+    second: L Toe0
+  - first:
+      1: 100082
+    second: L Toe0Nub
+  - first:
+      1: 100084
+    second: L UpperArm
+  - first:
+      1: 100086
+    second: Lens
+  - first:
+      1: 100088
+    second: Mouth Low
+  - first:
+      1: 100090
+    second: Mouth Up
+  - first:
+      1: 100092
+    second: Neck
+  - first:
+      1: 100094
+    second: Pelvis
+  - first:
+      1: 100096
+    second: Plane001
+  - first:
+      1: 100098
+    second: Ponytail1Nub
+  - first:
+      1: 100100
+    second: Ponytail2Nub
+  - first:
+      1: 100102
+    second: R Calf
+  - first:
+      1: 100104
+    second: R Clavicle
+  - first:
+      1: 100106
+    second: R Ear
+  - first:
+      1: 100108
+    second: R Finger0
+  - first:
+      1: 100110
+    second: R Finger01
+  - first:
+      1: 100112
+    second: R Finger0Nub
+  - first:
+      1: 100114
+    second: R Finger1
+  - first:
+      1: 100116
+    second: R Finger11
+  - first:
+      1: 100118
+    second: R Finger1Nub
+  - first:
+      1: 100120
+    second: R Finger2
+  - first:
+      1: 100122
+    second: R Finger21
+  - first:
+      1: 100124
+    second: R Finger2Nub
+  - first:
+      1: 100126
+    second: R Finger3
+  - first:
+      1: 100128
+    second: R Finger31
+  - first:
+      1: 100130
+    second: R Finger3Nub
+  - first:
+      1: 100132
+    second: R Finger4
+  - first:
+      1: 100134
+    second: R Finger41
+  - first:
+      1: 100136
+    second: R Finger4Nub
+  - first:
+      1: 100138
+    second: R Foot
+  - first:
+      1: 100140
+    second: R Forearm
+  - first:
+      1: 100142
+    second: R Hand
+  - first:
+      1: 100144
+    second: R HorseLink
+  - first:
+      1: 100146
+    second: R Thigh
+  - first:
+      1: 100148
+    second: R Toe0
+  - first:
+      1: 100150
+    second: R Toe0Nub
+  - first:
+      1: 100152
+    second: R UpperArm
+  - first:
+      1: 100154
+    second: //RootNode
+  - first:
+      1: 100156
+    second: Raccoon Poly Art
+  - first:
+      1: 100158
+    second: Racoon Body
+  - first:
+      1: 100160
+    second: Spine
+  - first:
+      1: 100162
+    second: Spine1
+  - first:
+      1: 100164
+    second: Spine2
+  - first:
+      1: 100166
+    second: Tail01
+  - first:
+      1: 100168
+    second: Tail02
+  - first:
+      1: 100170
+    second: Tail03
+  - first:
+      1: 100172
+    second: Tail04
+  - first:
+      1: 100174
+    second: Tail05
+  - first:
+      1: 100176
+    second: TailNub
+  - first:
+      1: 100178
+    second: Racoon Body LOD0
+  - first:
+      1: 100180
+    second: Racoon Body LOD01
+  - first:
+      1: 100182
+    second: Racoon Body LOD02
+  - first:
+      1: 100184
+    second: Racoon Body LOD03
+  - first:
+      1: 100186
+    second: whiskers
+  - first:
+      1: 100188
+    second: Root
+  - first:
+      4: 400000
+    second: Box001
+  - first:
+      4: 400002
+    second: CG
+  - first:
+      4: 400004
+    second: Cheek L
+  - first:
+      4: 400006
+    second: Cheek LNub
+  - first:
+      4: 400008
+    second: Cheek R
+  - first:
+      4: 400010
+    second: Cheek RNub
+  - first:
+      4: 400012
+    second: Eye
+  - first:
+      4: 400014
+    second: Eye L
+  - first:
+      4: 400016
+    second: Eye LNub
+  - first:
+      4: 400018
+    second: Eye R
+  - first:
+      4: 400020
+    second: Eye RNub
+  - first:
+      4: 400022
+    second: Footsteps
+  - first:
+      4: 400024
+    second: Hair Tail
+  - first:
+      4: 400026
+    second: Head
+  - first:
+      4: 400028
+    second: HeadNub
+  - first:
+      4: 400030
+    second: Jaw
+  - first:
+      4: 400032
+    second: JawNub
+  - first:
+      4: 400034
+    second: L Calf
+  - first:
+      4: 400036
+    second: L Clavicle
+  - first:
+      4: 400038
+    second: L Ear
+  - first:
+      4: 400040
+    second: L Finger0
+  - first:
+      4: 400042
+    second: L Finger01
+  - first:
+      4: 400044
+    second: L Finger0Nub
+  - first:
+      4: 400046
+    second: L Finger1
+  - first:
+      4: 400048
+    second: L Finger11
+  - first:
+      4: 400050
+    second: L Finger1Nub
+  - first:
+      4: 400052
+    second: L Finger2
+  - first:
+      4: 400054
+    second: L Finger21
+  - first:
+      4: 400056
+    second: L Finger2Nub
+  - first:
+      4: 400058
+    second: L Finger3
+  - first:
+      4: 400060
+    second: L Finger31
+  - first:
+      4: 400062
+    second: L Finger3Nub
+  - first:
+      4: 400064
+    second: L Finger4
+  - first:
+      4: 400066
+    second: L Finger41
+  - first:
+      4: 400068
+    second: L Finger4Nub
+  - first:
+      4: 400070
+    second: L Foot
+  - first:
+      4: 400072
+    second: L Forearm
+  - first:
+      4: 400074
+    second: L Hand
+  - first:
+      4: 400076
+    second: L HorseLink
+  - first:
+      4: 400078
+    second: L Thigh
+  - first:
+      4: 400080
+    second: L Toe0
+  - first:
+      4: 400082
+    second: L Toe0Nub
+  - first:
+      4: 400084
+    second: L UpperArm
+  - first:
+      4: 400086
+    second: Lens
+  - first:
+      4: 400088
+    second: Mouth Low
+  - first:
+      4: 400090
+    second: Mouth Up
+  - first:
+      4: 400092
+    second: Neck
+  - first:
+      4: 400094
+    second: Pelvis
+  - first:
+      4: 400096
+    second: Plane001
+  - first:
+      4: 400098
+    second: Ponytail1Nub
+  - first:
+      4: 400100
+    second: Ponytail2Nub
+  - first:
+      4: 400102
+    second: R Calf
+  - first:
+      4: 400104
+    second: R Clavicle
+  - first:
+      4: 400106
+    second: R Ear
+  - first:
+      4: 400108
+    second: R Finger0
+  - first:
+      4: 400110
+    second: R Finger01
+  - first:
+      4: 400112
+    second: R Finger0Nub
+  - first:
+      4: 400114
+    second: R Finger1
+  - first:
+      4: 400116
+    second: R Finger11
+  - first:
+      4: 400118
+    second: R Finger1Nub
+  - first:
+      4: 400120
+    second: R Finger2
+  - first:
+      4: 400122
+    second: R Finger21
+  - first:
+      4: 400124
+    second: R Finger2Nub
+  - first:
+      4: 400126
+    second: R Finger3
+  - first:
+      4: 400128
+    second: R Finger31
+  - first:
+      4: 400130
+    second: R Finger3Nub
+  - first:
+      4: 400132
+    second: R Finger4
+  - first:
+      4: 400134
+    second: R Finger41
+  - first:
+      4: 400136
+    second: R Finger4Nub
+  - first:
+      4: 400138
+    second: R Foot
+  - first:
+      4: 400140
+    second: R Forearm
+  - first:
+      4: 400142
+    second: R Hand
+  - first:
+      4: 400144
+    second: R HorseLink
+  - first:
+      4: 400146
+    second: R Thigh
+  - first:
+      4: 400148
+    second: R Toe0
+  - first:
+      4: 400150
+    second: R Toe0Nub
+  - first:
+      4: 400152
+    second: R UpperArm
+  - first:
+      4: 400154
+    second: //RootNode
+  - first:
+      4: 400156
+    second: Raccoon Poly Art
+  - first:
+      4: 400158
+    second: Racoon Body
+  - first:
+      4: 400160
+    second: Spine
+  - first:
+      4: 400162
+    second: Spine1
+  - first:
+      4: 400164
+    second: Spine2
+  - first:
+      4: 400166
+    second: Tail01
+  - first:
+      4: 400168
+    second: Tail02
+  - first:
+      4: 400170
+    second: Tail03
+  - first:
+      4: 400172
+    second: Tail04
+  - first:
+      4: 400174
+    second: Tail05
+  - first:
+      4: 400176
+    second: TailNub
+  - first:
+      4: 400178
+    second: Racoon Body LOD0
+  - first:
+      4: 400180
+    second: Racoon Body LOD01
+  - first:
+      4: 400182
+    second: Racoon Body LOD02
+  - first:
+      4: 400184
+    second: Racoon Body LOD03
+  - first:
+      4: 400186
+    second: whiskers
+  - first:
+      4: 400188
+    second: Root
+  - first:
+      23: 2300000
+    second: Box001
+  - first:
+      23: 2300002
+    second: Hair Tail
+  - first:
+      23: 2300004
+    second: Mouth Low
+  - first:
+      23: 2300006
+    second: Mouth Up
+  - first:
+      23: 2300008
+    second: Plane001
+  - first:
+      23: 2300010
+    second: whiskers
+  - first:
+      33: 3300000
+    second: Box001
+  - first:
+      33: 3300002
+    second: Hair Tail
+  - first:
+      33: 3300004
+    second: Mouth Low
+  - first:
+      33: 3300006
+    second: Mouth Up
+  - first:
+      33: 3300008
+    second: Plane001
+  - first:
+      33: 3300010
+    second: whiskers
+  - first:
+      43: 4300000
+    second: Mouth Low
+  - first:
+      43: 4300002
+    second: Mouth Up
+  - first:
+      43: 4300004
+    second: Lens
+  - first:
+      43: 4300006
+    second: Eye
+  - first:
+      43: 4300008
+    second: Racoon Body
+  - first:
+      43: 4300010
+    second: Hair Tail
+  - first:
+      43: 4300012
+    second: Raccoon Poly Art
+  - first:
+      43: 4300014
+    second: Plane001
+  - first:
+      43: 4300016
+    second: Box001
+  - first:
+      43: 4300018
+    second: whiskers
+  - first:
+      43: 4300020
+    second: Racoon Body LOD0
+  - first:
+      43: 4300022
+    second: Racoon Body LOD01
+  - first:
+      43: 4300024
+    second: Racoon Body LOD02
+  - first:
+      43: 4300026
+    second: Racoon Body LOD03
+  - first:
+      74: 7400000
+    second: Rac_Idle01
+  - first:
+      74: 7400002
+    second: Rac_Idle Smell
+  - first:
+      74: 7400004
+    second: Rac_Idle Scratch
+  - first:
+      74: 7400006
+    second: Rac_Idle Look Right
+  - first:
+      74: 7400008
+    second: Rac_Idle Yaw
+  - first:
+      74: 7400010
+    second: Rac_Idle Look Left
+  - first:
+      74: 7400012
+    second: Rac_Idle to Stand
+  - first:
+      74: 7400014
+    second: Rac_Stand to Idle
+  - first:
+      74: 7400016
+    second: Rac_Stand Idle
+  - first:
+      74: 7400018
+    second: Rac_Stand Look Right
+  - first:
+      74: 7400020
+    second: Rac_Sneak Idle
+  - first:
+      74: 7400022
+    second: Rac_Sneak Look Right
+  - first:
+      74: 7400024
+    second: Rac_Stand Look Left
+  - first:
+      74: 7400026
+    second: Rac_Sneak Look Left
+  - first:
+      74: 7400028
+    second: Rac_Wounded Idle
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Eye
+  - first:
+      137: 13700002
+    second: Lens
+  - first:
+      137: 13700004
+    second: Raccoon Poly Art
+  - first:
+      137: 13700006
+    second: Racoon Body
+  - first:
+      137: 13700008
+    second: Racoon Body LOD0
+  - first:
+      137: 13700010
+    second: Racoon Body LOD01
+  - first:
+      137: 13700012
+    second: Racoon Body LOD02
+  - first:
+      137: 13700014
+    second: Racoon Body LOD03
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.1
+    animationPositionError: 0.1
+    animationScaleError: 0.1
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rac_Idle01
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Idle Scratch
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 101
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Idle Look Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 177
+      lastFrame: 287
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Idle Smell
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 287
+      lastFrame: 399
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Idle Look Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 400
+      lastFrame: 487
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Idle Yaw
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 488
+      lastFrame: 583
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Idle to Stand
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 583
+      lastFrame: 610
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Stand Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 611
+      lastFrame: 712
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Stand Look Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 713
+      lastFrame: 822
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Stand to Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 912
+      lastFrame: 940
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Sneak Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 945
+      lastFrame: 1047
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Sneak Look Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1048
+      lastFrame: 1158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Stand Look Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 822
+      lastFrame: 912
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Sneak Look Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1160
+      lastFrame: 1248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rac_Wounded Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1250
+      lastFrame: 1350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: 1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0cadf148b7e3d1f4aabb0ead759e3867,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
